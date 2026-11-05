@@ -68,7 +68,7 @@ python-igraph, pynndescent, hnswlib, joblib and tqdm. A GPU is recommended for t
 
 ## Citation
 
-Mingjia Yao, Cuining (Choo) Liu, Cynthia DeLong, Chongyuan Luo and Joshua D. Welch.
+Mingjia Yao, Cuining Liu, Cynthia DeLong, Chongyuan Luo and Joshua D. Welch.
 *Mechanistic Inference of Epigenomic and Transcriptional Dynamics from Partially Overlapping Single-Cell Multi-Omic Data.*
 
 OmniVelo builds on [MultiVelo](https://doi.org/10.1038/s41587-022-01476-y) and
